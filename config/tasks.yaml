@@ -1,0 +1,12 @@
+researcher_task:
+  description: >
+    Conduct research on the {topic} and get 3-5 interesting facts about it.
+  expected_output: >
+    A comprehensive report with 3-5 bullet facts.
+
+writer_task:
+  description: > 
+    Create a 100-word blog post summary about {topic} using the facts from the research.
+  expected_output: >
+    An engaging blog post discussing the impact of AI on society.
+
