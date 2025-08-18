@@ -81,4 +81,5 @@ class Research_and_writing_Crew():
 # ----------------------------
 if __name__ == "__main__":
     research_crew = Research_and_writing_Crew()
-    research_crew.crew().kickoff(inputs={'topic': 'AI in Healthcare'})
+    topic = input("Enter the research topic: ")
+    research_crew.crew().kickoff(inputs={'topic': topic})
