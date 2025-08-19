@@ -543,6 +543,7 @@ dependencies = [
     { name = "crewai-tools" },
     { name = "duckduckgo-search" },
     { name = "embedchain" },
+    { name = "sqlalchemy" },
 ]
 
 [package.metadata]
@@ -552,6 +553,7 @@ requires-dist = [
     { name = "crewai-tools", specifier = ">=0.62.0" },
     { name = "duckduckgo-search", specifier = ">=8.1.1" },
     { name = "embedchain", specifier = ">=0.1.128" },
+    { name = "sqlalchemy", specifier = ">=2.0.43" },
 ]
 
 [[package]]

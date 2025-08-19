@@ -10,4 +10,5 @@ dependencies = [
     "crewai[tools]>=0.159.0",
     "duckduckgo-search>=8.1.1",
     "embedchain>=0.1.128",
+    "sqlalchemy>=2.0.43",
 ]
