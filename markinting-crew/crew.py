@@ -25,7 +25,7 @@ class SimpleDDGTool(BaseTool):
             return "\n".join([r["title"] + " - " + r["href"] for r in results])
 
 llm = LLM(
-    model="gemini/gemini-2.0-flash",
+    model="gemini/gemini-1.5-flash",
     temperature=0.7
 )
 
@@ -63,7 +63,7 @@ class TheMarketingAgent():
             llm=llm,
             inject_date=True,
             allow_delegation=True,
-            max_rpm=3
+            max_rpm=1
         )
     
     @agent
@@ -82,7 +82,7 @@ class TheMarketingAgent():
             inject_date=True,
             max_iter=30,
             allow_delegation=True,
-            max_rpm=3
+            max_rpm=1
         )
 
     @agent
@@ -101,7 +101,7 @@ class TheMarketingAgent():
             inject_date=True,
             max_iter=30,
             allow_delegation=True,
-            max_rpm=3
+            max_rpm=1
         )
 
     @agent
@@ -120,7 +120,7 @@ class TheMarketingAgent():
             inject_date=True,
             max_iter=30,
             allow_delegation=True,
-            max_rpm=3
+            max_rpm=1
         )
     
     # Tasks
@@ -193,7 +193,7 @@ class TheMarketingAgent():
             verbose=True,
             planning=True,
             planning_llm=llm,
-            max_rpm=3
+            max_rpm=1
         )
 
 if __name__ == "__main__":
