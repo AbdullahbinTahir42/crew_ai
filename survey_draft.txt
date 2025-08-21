@@ -1,0 +1,24 @@
+Survey Title: Excel Automation Needs in SMEs
+
+Introduction: Thank you for taking part in this short survey about your company's use of Excel and interest in automation solutions. Your feedback is valuable.
+
+Section 1: About Your Company
+1. What industry does your company belong to? (Select one) Finance, Retail, Manufacturing, Other (Please specify)
+2. What is the approximate number of employees in your company?
+3. What is your role in the company?
+
+Section 2: Excel Usage
+4. How frequently do you use Microsoft Excel in your daily work? (Select one) Daily, Several times a week, Weekly, Less often
+5. What types of tasks do you automate using Excel? (Select all that apply) Data entry, Report generation, Data analysis, Forecasting, Budgeting, Other (Please specify)
+6. What tools or methods do you currently use to automate Excel tasks? (Select all that apply) Macros, VBA, Third-party add-ins, Manual processes, None
+
+Section 3: AI and Automation
+7. How familiar are you with AI-powered solutions? (Select one) Very familiar, Somewhat familiar, Not very familiar, Not at all familiar
+8. How comfortable are you adopting new technologies in your workplace? (Select one) Very comfortable, Somewhat comfortable, Not very comfortable, Not at all comfortable
+
+Section 4: Budget and Needs
+9. What is your approximate annual budget for automation tools? (Select one) Less than Rs. 50,000, Rs. 50,000-100,000, Rs. 100,000-200,000, More than Rs. 200,000
+10. What are your biggest pain points when using Excel for automation? (Please specify)
+11. What features would you value most in an AI-powered Excel automation tool?
+
+Thank you for your participation!
